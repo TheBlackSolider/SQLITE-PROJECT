@@ -1,5 +1,7 @@
 Database Programming using Python (SQL)
+
 SQLITE PROJECT
+
 Saud Faisal Alharbi
 
 First we've created a 6 tables and all created successfully as you see here 
