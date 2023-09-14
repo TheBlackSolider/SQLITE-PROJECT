@@ -38,12 +38,18 @@ See it changed
 
 ![لقطة شاشة 2023-09-14 004158](https://github.com/TheBlackSolider/SQLITE-PROJECT/assets/94854113/d063cac2-60ee-409f-8e67-7b9bd732c956)
 
+
 Finally we've used Delete to Delete Id 4 since she's had a bad rate as you see here 
+
 
 
 ![لقطة شاشة 2023-09-14 004215](https://github.com/TheBlackSolider/SQLITE-PROJECT/assets/94854113/4547ab4f-f833-443d-b94e-c6822609900f)
 
+
+
 See she's gone and deleted successfully 
+
+
 
 
 ![لقطة شاشة 2023-09-14 004353](https://github.com/TheBlackSolider/SQLITE-PROJECT/assets/94854113/52039b3f-1b11-4a9f-94fb-9d68a1e4716f)
